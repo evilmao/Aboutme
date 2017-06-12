@@ -36,7 +36,7 @@
 |1| 手机：|13636269356| 
 |2|邮箱：|failymao@live.com|
 |3|Wechat：|991378415|
-|4|Weibo:|![http://weibo.com/failymao](http://tt1535-deercv.stor.sinaapp.com/593e0896184a1.png)|
+|4|Weibo:|[![](http://tt1535-deercv.stor.sinaapp.com/593e0896184a1.png)](http://weibo.com/failymao)|
 <br>
 
 ## 技能清单
