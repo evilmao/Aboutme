@@ -23,7 +23,7 @@
 >&emsp;&emsp;  未来两年内主攻Python全栈工程师，深度学习Django及tornado/flask框架，前端HTML，CSS，JavaScript语言，pyspider、scrapy及数据处理；未来五年，向人工智能，机械学习方面发展。
 >  
 ## 工作经历
-> - ***10.2016----Now* &emsp;&emsp; 自学python &emsp;&emsp;&emsp;Python solfware Engerning**
+> - ***03.2016----Now* &emsp;&emsp; 自学python &emsp;&emsp;&emsp;Python solfware Engerning**
 > 自学python, Django框架Web开发
 >
 >
@@ -31,10 +31,11 @@
   保时捷中心，Aftersales Department,
 
 ## 联系方式
-
-- 手机：13636269356 
-- 邮箱：failymao@live.com
-- Wechat：991378415
+|#|联系|方式|
+|---|----|:---:|
+|1| 手机：|13636269356| 
+|2|邮箱：|failymao@live.com|
+|3|Wechat：|991378415|
 <br>
 
 ## 技能清单
