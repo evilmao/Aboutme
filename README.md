@@ -1,7 +1,8 @@
 ## 自我介绍
 ----
 倔强，任性，11年车辆工程专业毕业，同年进入保时捷，但一直酷爱计算机语言，工作五年后，在一个西部的二线的城市，拿着年薪十几万的薪水，却内心总不安分，最终选择了这条“不归路”！
->  ***`I write Python`***
+>  ***`I write Python`***
+>  渴望曲线救国，至死方休！
 <HR>
 
 ## 我的选择
@@ -23,11 +24,11 @@
 >&emsp;&emsp;  未来两年内主攻Python全栈工程师，深度学习Django及tornado/flask框架，前端HTML，CSS，JavaScript语言，pyspider、scrapy及数据处理；未来五年，向人工智能，机械学习方面发展。
 >  
 ## 工作经历
-> - ***03.2016----Now* &emsp;&emsp; 自学python &emsp;&emsp;&emsp;Python solfware Engerning**
-> 自学python, Django框架Web开发
+> - ***06.2016----Now* &emsp;&emsp; Write python &emsp;&emsp;&emsp;Python solfware Engerning**
+> Write python,主攻Django框架下的后端Web开发
 >
 >
->- ***06.2011-08.2016* &emsp;&emsp;Porsche Center   &emsp;&emsp;&emsp;Warranty Supervisor**
+>- ***06.2011-03.2016* &emsp;&emsp;Porsche Center   &emsp;&emsp;&emsp;Warranty Supervisor**
   保时捷中心，Aftersales Department,
 
 ## 联系方式
@@ -43,8 +44,8 @@
 
 - Web开发: python （熟练） 
 - Web框架：Django（熟练）
-- 数据库：MySQL/SQLite（熟练）
-- 前端框架：bootstrap3 / HTLM5 /CSS /JS （）
+- 数据库：MySQL/SQLite（熟练）/Redis
+- 前端框架：bootstrap3 /CSS /JS （）
 - 数据分析处理：Beautifulsoup,scrapt框架
 
 ## 语言能力
@@ -59,7 +60,7 @@
 - 爱好网易云音乐，喜欢轻音乐
 - 游泳
 - 好静
-- 爱好English，扇贝坚持打卡1000天。<br>
+<br>
 
 
 <hr>
