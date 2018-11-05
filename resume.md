@@ -1,6 +1,6 @@
 ## 联系方式
 
-- 手机：13636269356 
+- 手机：17691345411 
 - 邮箱：failymao@live.com
 - QQ/微信：991378415
 
@@ -9,11 +9,12 @@
 
 - 姓名/性别/年龄：毛义飞/男/1990
 - 湖北汽车工业学院/车辆工程
-- 工作年限：1年
+- 工作年限：2年
 - Github: [https://github.com/evilmao](https://github.com/evilmao)
 - 职位：python后端初级工程师
 - 期望城市： 能实现梦想的地方
 - 目前状态：正在找工作（1周内可上岗）
+- 博客: [Blog](https://www.cnblogs.com/failymao/)
 
 ## 项目经验
 
@@ -75,11 +76,13 @@
 
 ## 技能清单
 
-- Web开发: python （熟练） 
-- Web框架：Django（熟练）
-- 数据库：MySQL/SQLite（熟练）
+- Web开发: python （熟练）,Go(熟练) 
+- Web框架：Django（熟练）,Bin/Bengo(熟悉)
+- 数据库：MySQL/SQLite/Redis（熟练）
 - 前端框架：bootstrap3 / HTLM5 /CSS /JS （）
 - 数据分析处理：Beautifulsoup,scrapt框架
+- 区块链: Ethereum. BTC. Eos, Cardano
+- 智能合约: solidity(熟悉)
 
 ## 语言能力
 
@@ -90,10 +93,7 @@
 
 - 爱好写作，看书
 - 喜欢吉他
-- 爱好网易云音乐，喜欢轻音乐
-- 游泳
-- 好静
-- 爱好English,已经坚持连续扇贝打卡888天。<br>
+- 撸代码
 
 ## 致谢
 **非常感谢您花时间阅读我的简历，期待能有机会和您共事,并希望能给出宝贵的意见！**
