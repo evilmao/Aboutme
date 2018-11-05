@@ -18,6 +18,18 @@
 
 ## 项目经验
 
+###  **西安哈希码科技有限公司**    (2018.2--2018.11)
+> * 项目名称：Etherum_Dapp_Wallet 项目（[github链接](https://github.com/Djangoclub/Django-WEb)）
+> * 项目时间：2018.2-2018.5
+> * 项目简介：基于以太坊Ethereum公链开发一个若中心话多币种钱包
+> * 职责业绩：
+  1.详设文档及接口文档设计；
+  2.代币智能合约编写；
+  3.公链节点搭建与测试；
+  4.数据库模块编写；
+  5.交易模块代码编写；
+  6.性能测试
+
 ####  **J.F Education**    (----2017)
 
 > * 项目名称： Django-Blog项目（[github链接](https://github.com/Djangoclub/Django-WEb)）
@@ -83,7 +95,10 @@
 - 数据分析处理：Beautifulsoup,scrapt框架
 - 区块链: Ethereum. BTC. Eos, Cardano
 - 智能合约: solidity(熟悉)
-
+- 版本管理： Git/SVN/Gitlab熟练
+- 单元/集成测试：unitest/JIRA/Jenkins（熟练）
+- 运维部署：熟悉Nginx、uwsgi、Docker、Celery
+- 开发环境： Centos /ubuntu
 ## 语言能力
 
 - 英语（听说读写熟练）
