@@ -1,4 +1,4 @@
-[TOC]
+[toc]
 ## 联系方式
 
 - 手机：17691345411 
@@ -16,6 +16,7 @@
 - 目前状态：正在找工作（1周内可上岗）
 - 博客: [Blog](https://www.cnblogs.com/failymao/)
 - Github: [https://github.com/evilmao](https://github.com/evilmao)
+- 社区 : 
 
 ## 工作经验
 
@@ -35,8 +36,8 @@
     6.性能测试
   ```
   
-#### * 项目二：HashBlockChain
-> * 项目地址：/
+#### * 项目二：Haxicode
+> * 项目地址：[Haxicode](https://github.com/xianhashchain)
 > * 项目时间：2018.7-2018.11
 > * 项目简介：基于以太坊，新增Dpos共识机制的公链 -----> 完全移除原Pow算法,结合EOS的dpos的原理, 修改Ethereum源码, 嵌入Dpos算法, 同时使各其他参数以创世块配置的方式达到灵活调整出块间隔及节点数量.方便私链调试!
 
@@ -84,17 +85,16 @@
 ```
 ###  **开源项目**    (2017.04--2017.07)
 > * 项目地址:[MS_AutoTest](https://github.com/evilmao/python_auto_test/tree/master/XSTZ_Test_framework)
-> * 项目简介: 有效解决运维监控长期处于被动监控的局面！被动监控往往通过研发团队给予指定的参数，通过API接口获取到服务器数据！被动监控存在一定的盲区：服务器正常，但是客户在前端使用产品时，出现功能故障，出现页面崩溃，js加载超时，连接失效，超时等现象，MS_AutoTest项目通过python+selenium模拟用户行为通过监控html/wap/app功能对应元素在设置时间内（超时时间）是否成功加载，从而判断产品某项功能，是否正常；结合Jenkins+Git持续集成，根据产品迭代频率，设置定时任务实现7*24主动监控；当监控出错误时触发截屏，并实时插入html文档，并通过Nginx发布至局域网内，测试完毕后将触发钉钉机器人发送监控报告，同时将收集错误数据插入influxDB，结合Grafana将重点bug展示，从而及时优化产品质量
-
-> 项目过程: 基于unitest单元测试框架，web端使用selenium，移动app端使appium，模拟用户对产品进行点击操作，从而实现UI自动化测试功能，项目难点一：支付通道验为动态验证点，无法确定某时某刻支付通道个数和每个支付通道跳转后的预期验证点；采用ddt数据驱动模型，先从支付页面获得当前支付通道明细，读取excel
-预设验证点，构建ddt原始数据，从而极大减少了代码重复；难点二，验证错误时无法时事截图，并插入到html文档中，通过装饰器，将每个测试函数作为内部函数，当生异常时处罚截图；通过抛出异常将当前截图路径发送至HTMLRunner.py基础数据中，插入到当前测试点上.
+> * 项目简介: 有效解决运维监控长期处于被动监控的局面！被动监控往往通过研发团队给予指定的参数，通过API接口获取到服务器数据！被动监控存在一定的盲区：服> 务器正常，但是客户在前端使用产品时，出现功能故障，出现页面崩溃，js加载超时，连接失效，超时等现象，MS_AutoTest项目通过python+selenium模拟用户行为> 通过监控html/wap/app功能对应元素在设置时间内（超时时间）是否成功加载，从而判断产品某项功能，是否正常；结合Jenkins+Git持续集成，根据产品迭代频率，> 设置定时任务实现7*24主动监控；当监控出错误时触发截屏，并实时插入html文档，并通过Nginx发布至局域网内，测试完毕后将触发钉钉机器人发送监控报告，同时> > 将收集错误数据插入influxDB，结合Grafana将重点bug展示，从而及时优化产品质量
+> 项目过程: 基于unitest单元测试框架，web端使用selenium，移动app端使appium，模拟用户对产品进行点击操作，从而实现UI自动化测试功能，项目难点一：支付> > 通道验为动态验证点，无法确定某时某刻支付通道个数和每个支付通道跳转后的预期验证点；采用ddt数据驱动模型，先从支付页面获得当前支付通道明细，读取excel
+> 预设验证点，构建ddt原始数据，从而极大减少了代码重复；难点二，验证错误时无法时事截图，并插入到html文档中，通过装饰器，将每个测试函数作为内部函数，当> 生异常时处罚截图；通过抛出异常将当前截图路径发送至HTMLRunner.py基础数据中，插入到当前测试点上.
 
 ### **业余项目**
 - 爬虫:
- - [selenium_spider](https://github.com/evilmao/Python_Selenium_Spider)
-  - 结合selenium+PantomJs/Chrome+MongoDB爬取淘宝搜索相关宝贝信息
- -[Scrapy_spider](https://github.com/evilmao/scrapy_spider)
-  - 使用scrapy + mongodb + redis 爬取阿里巴巴国际网站亿万数据
+  - [selenium_spider](https://github.com/evilmao/Python_Selenium_Spider)
+   - 结合selenium+PantomJs/Chrome+MongoDB爬取淘宝搜索相关宝贝信息
+  -[Scrapy_spider](https://github.com/evilmao/scrapy_spider)
+   - 使用scrapy + mongodb + redis 爬取阿里巴巴国际网站亿万数据
   
 - 小工具: 性能测试
  -[loading_test](https://github.com/evilmao/XSTZ_loading_test)
