@@ -50,7 +50,7 @@
   5.测试用例匹配
   6.性能测试
 ```
-> * 
+
 ###  **摩石环球科技**    (2017.02--2018.02)
 
 #### * 项目一： 鑫圣金业积分商城
@@ -95,10 +95,9 @@
     - 结合selenium+PantomJs/Chrome+MongoDB爬取淘宝搜索相关宝贝信息
   - [Scrapy_spider](https://github.com/evilmao/scrapy_spider)
      - 使用scrapy + mongodb + redis 爬取阿里巴巴国际网站亿万数据
-  
 - 小工具: 性能测试
- - [loading_test](https://github.com/evilmao/XSTZ_loading_test)
-  - 基于python开发的一套服务器性能测试通用脚本工具
+  - [loading_test](https://github.com/evilmao/XSTZ_loading_test)
+    - 基于python开发的一套服务器性能测试通用脚本工具
 
   <br>
   <br>
