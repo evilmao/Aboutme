@@ -16,7 +16,7 @@
 - 目前状态：正在找工作（1周内可上岗）
 - 博客: [Blog](https://www.cnblogs.com/failymao/)
 - Github: [https://github.com/evilmao](https://github.com/evilmao)
-- 社区 : 
+- 区块链社区: ![](http://ww1.sinaimg.cn/large/8599e4cfly1fwyft76dd1j2076076glt.jpg)
 
 ## 工作经验
 
