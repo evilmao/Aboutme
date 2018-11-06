@@ -12,7 +12,7 @@
 - 工作年限：2年
 - Github: [https://github.com/evilmao](https://github.com/evilmao)
 - 职位：python后端初级工程师
-- 期望城市： 能实现梦想的地方
+- 期望城市： 西安
 - 目前状态：正在找工作（1周内可上岗）
 - 博客: [Blog](https://www.cnblogs.com/failymao/)
 
@@ -115,7 +115,7 @@
 - 版本管理： Git/SVN/Gitlab熟练
 - 单元/集成测试：unitest/JIRA/Jenkins（熟练）
 - 运维部署：熟悉Nginx、uwsgi、Docker、Celery
-- 开发环境： Centos /ubuntu
+- 开发环境： Centos/ubuntu
 ## 语言能力
 
 - 英语（听说读写熟练）
