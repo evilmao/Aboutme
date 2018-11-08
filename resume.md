@@ -2,7 +2,7 @@
 ## 联系方式
 
 - 手机：17691345411 
-- 邮箱：failymao@live.com
+- 邮箱：faily0117@gmail.com
 - QQ/微信：991378415
 
 
