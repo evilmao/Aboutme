@@ -24,18 +24,18 @@
 >&emsp;&emsp;  未来两年内主攻Python全栈工程师，深度学习Django及tornado/flask框架，前端HTML，CSS，JavaScript语言，pyspider、scrapy及数据处理；未来五年，向人工智能，机械学习方面发展。
 >  
 ## 工作经历
-> - ***06.2016----Now* &emsp;&emsp; Write python &emsp;&emsp;&emsp;Python solfware Engerning**
+> - ***11.2015----Now* &emsp;&emsp; Write python &emsp;&emsp;&emsp;Python solfware Engerning**
 > Write python,主攻Django框架下的后端Web开发
 >
 >
->- ***06.2011-03.2016* &emsp;&emsp;Porsche Center   &emsp;&emsp;&emsp;Warranty Supervisor**
-  保时捷中心，Aftersales Department,
+>- ***06.2011-06.2015* &emsp;&emsp;Porsche Center   &emsp;&emsp;&emsp;Warranty Supervisor**
+>-  Aftersales Department,
 
 ## 联系方式
 |#|联系|方式|
 |---|----|:---:|
-|1| 手机：|13636269356| 
-|2|邮箱：|failymao@live.com|
+|1| 手机：|17691345411| 
+|2|邮箱：|faily0117@gmail.com|
 |3|Wechat：|991378415|
 |4|Weibo:|[![](http://tt1535-deercv.stor.sinaapp.com/593e0896184a1.png)](http://weibo.com/failymao)|
 <br>
@@ -57,7 +57,6 @@
 
 - 爱好写作，看书
 - 喜欢吉他
-- 爱好网易云音乐，喜欢轻音乐
 - 游泳
 - 好静
 <br>
