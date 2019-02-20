@@ -1,4 +1,5 @@
 
+
 ## 联系方式
 
 - 手机：17691345411 
@@ -8,23 +9,30 @@
 ## 个人信息
 
 - 姓名/性别/年龄：毛义飞/男/1992
+
 - 湖北汽车工业学院   
+
 - 工作年限：3年
-- 职位：python/golang/区块链开发
+
+- 职位：python/golang/区块链开发/机器学习
+
 - 期望城市： 西安
-- 目前状态：正在找工作（1周内可上岗）
+
+- 目前状态：正在找工作（2周内可上岗）
+
 - 博客: [Blog](https://www.cnblogs.com/failymao/)
+
 - Github: [https://github.com/evilmao](https://github.com/evilmao)
-- 区块链社区: ![](http://ww1.sinaimg.cn/large/8599e4cfly1fwyft76dd1j2076076glt.jpg)
+
 
 ## 工作经验
 
-###  西安哈希码科技有限公司    (2017.12--2018.11)
+###  西安哈希码科技有限公司    (2017.12--2019.02)
 
 ####  项目一：Haxicode
 
 - 项目地址：[Haxicode](https://github.com/xianhashchain)
-- 项目时间：2018.6--2018.11
+- 项目时间：2018.6--2018.12
 - 项目简介：基于以太坊，新增 Dpos共识机制的公链 -----> 完全移除原Pow算法,结合EOS的dpos的原理, 修改Ethereum源码, 嵌入Dpos算法, 同时使各其他参数以创世块配置的方式达到灵活调整出块间隔及节点数量.方便私链调试!
 - 职责指责：
   1.环境搭建;
@@ -108,8 +116,12 @@
 - 小工具: 性能测试
   - [loading_test](https://github.com/evilmao/XSTZ_loading_test)
     - 基于python开发的一套服务器性能测试通用脚本工具
+- 机器学习: 图像识别
+    -   [Img_recg_ali_wechat](https://github.com/evilmao/Img_recg_ali_wechat)
+        -   通过使用sklearn深度学习框架训练模型,来自动识别支付宝,微信收款提醒,自动解析图片文字
 
 ## 经历
+
 [♥ 不管人生怎么走，都需要实时回头看看 ♥](http://www.cnblogs.com/failymao/p/8699180.html)
 
 
@@ -117,16 +129,18 @@
 ## 技能清单
 
 - Web开发: python （熟练）,Go(熟练) 
-- Web框架：Django（熟练）, Gin/Beego(熟悉)
+- Web框架：Django（熟练）, Gin/Beego(熟悉), tornado
 - 数据库：MySQL/SQLite/Redis（熟练）
 - 前端框架：bootstrap3/HTLM5/CSS/JS 
 - 数据分析处理：Beautifulsoup,Scrapy框架
-- 区块链: Ethereum. BTC. Eos, Cardano
+- 区块链: Ethereum. BTC. Eos. Cardano. Ripple
 - 智能合约: solidity(熟悉)
 - 版本管理： Git/SVN/Gitlab熟练
 - 单元/集成测试：Unitest / JIRA/ Jenkins（熟练）
 - 运维部署：熟悉Nginx、uwsgi、Docker、pm2,  supervisor
 - 开发环境： Centos/ubuntu
+- 图形化处理:  numpy,opencv2
+- 深度学习: sklearn
 
 
 
@@ -139,15 +153,14 @@
 
 ## 兴趣爱好
 
-- 爱好写作，看书
+- 业余写作，看书
 - 喜欢吉他
-- 撸代码
+- 撸代码 , 逛知乎
 
 
 
 ## 致谢
 
 **非常感谢您花时间阅读我的简历，期待能有机会和您共事,并希望能给出宝贵的意见！**
-
 
 
